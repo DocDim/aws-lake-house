@@ -15,6 +15,7 @@ There are three JSON data sources to use from the Step Trainer. You can download
 
 ### Customer Records (from fulfillment and the STEDI website):
 AWS S3 Bucket URI - s3://cd0030bucket/customers/
+
 contains the following fields:
 
 - serialnumber
